@@ -1,5 +1,11 @@
 第一次哦
+<<<<<<< HEAD
 master修改
 master第二次修改
 develop的第一次修改
 我在master修改代码
+=======
+develop的第一次修改
+
+在develop分支修改代码
+>>>>>>> d744dd991e1fa90734a033f6b8aff425fbee1bae
